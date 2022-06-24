@@ -1,0 +1,63 @@
+---
+title: AEM 웹 성능
+description: 복잡한 웹 경험을 빠르게 제공하는 것은 어려운 일입니다. 이 강연에서, 조엘은 몇 가지 일반적인 함정을 밝혀낼 것이다. 여기에는 도구 데모뿐만 아니라 이론, 예, 모범 사례가 포함됩니다.
+uuid: f6338645-e05f-4b57-b576-65645d9220ed
+discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
+targetaudience: target-audience advanced
+exl-id: 0b7c8267-f831-4c48-bde3-90be787a75b6
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '284'
+ht-degree: 1%
+
+---
+
+# AEM 웹 성능{#aem-web-performance}
+
+복잡한 웹 경험을 빠르게 제공하는 것은 어려운 일입니다. 이 강연에서, 조엘은 몇 가지 일반적인 함정을 밝혀낼 것이다. 여기에는 이론, 예, 우수 사례 뿐만 아니라 네트워크 및 지연 지역 주변 도구 데모도 포함됩니다. http/1.1 및 HTTP/2에 대한 최적화 - 느린 AEM 서버 요청: 식별 문제 - JavaScript: 오버헤드 최소화
+
+>[!VIDEO](https://video.tv.adobe.com/v/19296/?quality=9)
+
+*2016년 6월 1일 배송*
+
+**제공 사람:**
+
+* Joel Richard, 개발자, Adobe
+
+**발표자 슬라이드**
+
+[파일 가져오기](assets/aem-gems-060116-web-performance.pdf)
+
+## 관련 링크 {#related-links}
+
+Apache:\
+[https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
+
+웹 표준:\
+[https://www.w3.org/TR/preload/](https://www.w3.org/TR/preload/)\
+[https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
+
+AEM:\
+[https://docs.adobe.com/docs/en/aem/6-2/develop/the-basics/clientlibs.html](https://docs.adobe.com/docs/en/aem/6-2/develop/the-basics/clientlibs.html)\
+[https://docs.adobe.com/docs/en/aem/6-2/develop/mobile-web/responsive.html](https://docs.adobe.com/docs/en/aem/6-2/develop/mobile-web/responsive.html)\
+[https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html](https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html)\
+[https://helpx.adobe.com/experience-manager/kb/performance-tuning-tips.html](https://helpx.adobe.com/experience-manager/kb/performance-tuning-tips.html)
+
+AEM 구성 요소:\
+[https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\
+[https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html](https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html)
+
+타사:\
+[https://www.ampproject.org/docs/reference/amp-img.html](https://www.ampproject.org/docs/reference/amp-img.html)\
+[http://www.appelsiini.net/projects/lazyload](http://www.appelsiini.net/projects/lazyload)
+
+JavaScript 성능:\
+[https://gist.github.com/paulirish/5d52fb081b3570c81e3a](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)\
+[https://developers.google.com/web/tools/chrome-devtools/?hl=en](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
+
+프로파일러:\
+[https://visualvm.java.net/](https://visualvm.java.net/)
+
+<!--
+[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+-->
