@@ -7,9 +7,9 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 8a6bbf6fb09e9e9d8ce42c6474830792cadc3250
+source-git-commit: beb1535f026b59d77039a3395f0ebed01ea0c9b7
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,15 @@ ht-degree: 0%
 
 # 후드형 - Cloud Manager 2022
 
-*이 웨비나는 6월 15일 오후 3시 UTC에 수행되었습니다. 사용 가능한 경우 녹음을 이 화면에 게시합니다 [컨텍스트 스레드](https://adobe.ly/3O0rdzd)*
+*이 웨비나는 6월 15일 오후 3시 UTC에 수행되었습니다. 아래 기록을 확인하십시오.*
 
 세션 설명: 지난 해 발표된 새로운 기능, 배후에서 제공되는 최신 개선 사항 및 2022년 나머지 사항을 살펴보십시오. Cloud Manager가 후드에서 작동하는 방식과 고객이 이를 최대한 활용할 수 있는 방법에 대한 자세한 정보입니다.  
 
 컨텐츠는 Cloud Service에 중점을 두고 Adobe Experience Manager as a Cloud Service과 Experience Manager Managed Services 모두에 적용됩니다. 기술 및 비기술 참석자에게도 적합합니다. Cloud Manager에 노출되기 전에 상황에 도움이 될 수 있지만 필요하지 않습니다.
+
+## 웨비나 기록
+
+[!V비디오](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
