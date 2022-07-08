@@ -7,9 +7,9 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: beb1535f026b59d77039a3395f0ebed01ea0c9b7
+source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,12 @@ ht-degree: 0%
 
 컨텐츠는 Cloud Service에 중점을 두고 Adobe Experience Manager as a Cloud Service과 Experience Manager Managed Services 모두에 적용됩니다. 기술 및 비기술 참석자에게도 적합합니다. Cloud Manager에 노출되기 전에 상황에 도움이 될 수 있지만 필요하지 않습니다.
 
-## 웨비나 기록
+**웨비나 기록**
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
 >* Experience League 시 세션별 커뮤니티 상호 작용에 대해서는 다음 사이트를 방문하십시오 [컨텍스트 스레드](https://adobe.ly/3O0rdzd)
->* 이 웨비나에 가입하지 않는 경우 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 AEM GEM 및 AEM 관련 이벤트에 대한 알림을 수신하도록 했습니다.
+>* 웨비나에 대한 자동 알림을 받으려면 다음에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
 
