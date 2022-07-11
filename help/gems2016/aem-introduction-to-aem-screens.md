@@ -1,39 +1,33 @@
 ---
-title: AEM Screens 소개
-description: AEM Screens은 Adobe Experience Manager에 통합된 새로운 디지털 서명 솔루션입니다. 이 AEM Gems 세션에서는 AEM Screens의 주요 기능과 슬라이드쇼 및 대화형 경험으로 간단한 프로젝트를 설정하는 방법을 설명합니다. 그런 다음 AEM Screens에 최적화된 구성 요소를 개발하는 방법과 오프라인 사용을 위해 채널을 설정하는 방법에 대한 개요를 제공합니다. 마지막으로 AEM Screens REST API를 살펴보고 사용자 지정 Cordova 플러그인을 통합하는 방법을 설명하겠습니다.
+title: Introduction to AEM Screens
+description: AEM Screens is the new digital signage solution integrated into Adobe Experience Manager. In this AEM Gems session, we will present the main features of AEM Screens and how to set up a simple Project with a slideshow and an interactive experience. We then give an overview of how to develop AEM Screens optimized components and how to set up Channels for offline use. Finally, we will explore the AEM Screens REST API and explain how to integrate custom Cordova plugins.
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
 exl-id: b68e5d95-876d-48c5-874d-5b9459c56220
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 5%
-
 ---
+# Introduction to AEM Screens{#introduction-to-aem-screens}
 
-# AEM Screens 소개{#introduction-to-aem-screens}
-
-AEM Screens은 Adobe Experience Manager에 통합된 새로운 디지털 서명 솔루션입니다. 이 AEM Gems 세션에서는 AEM Screens의 주요 기능과 슬라이드쇼 및 대화형 경험으로 간단한 프로젝트를 설정하는 방법을 설명합니다. 그런 다음 AEM Screens에 최적화된 구성 요소를 개발하는 방법과 오프라인 사용을 위해 채널을 설정하는 방법에 대한 개요를 제공합니다. 마지막으로 AEM Screens REST API를 살펴보고 사용자 지정 Cordova 플러그인을 통합하는 방법을 설명하겠습니다.
+AEM Screens is the new digital signage solution integrated into Adobe Experience Manager. In this AEM Gems session, we will present the main features of AEM Screens and how to set up a simple Project with a slideshow and an interactive experience. We then give an overview of how to develop AEM Screens optimized components and how to set up Channels for offline use. Finally, we will explore the AEM Screens REST API and explain how to integrate custom Cordova plugins.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19301/?quality=9)
 
-*2016년 11월 16일 제공*
+*Delivered November 16, 2016*
 
-**제공 사람:**
+**Presented by:**
 
-* Julien Ramboz, UI 개발자, Adobe
-* Tobias Reiss, 컴퓨터 과학자, 소프트웨어 개발, Adobe
+* Julien Ramboz, UI Developer, Adobe
+* Tobias Reiss, Computer Scientist, Software Development, Adobe
 
-**발표자 슬라이드**
+**Presenter slides**
 
-[파일 가져오기](assets/2016-11-16-aem-screens.pdf)
+[Get File](assets/2016-11-16-aem-screens.pdf)
 
-샘플 프로젝트
+Sample Project
 
-[파일 가져오기](assets/aemscreensgems.zip)
+[Get File](assets/aemscreensgems.zip)
 
-## 관련 링크 {#related-links}
+## Related links {#related-links}
 
-* [스크린 배포](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
-* [스크린 개념](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)
+* [Deploying Screens](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
+* [Screens Concept](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)

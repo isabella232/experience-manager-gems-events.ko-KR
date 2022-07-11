@@ -1,34 +1,28 @@
 ---
 title: Cloud Manager 2022
-description: 이 AEM GEMs 웨비나에는 다음에 대한 프레젠테이션 및 데모가 포함될 예정입니다.:지난 해에 릴리스된 새로운 기능을 살펴보거나, 현장 업데이트..(설명은 60자에서 160자 사이여야 함)
+description: This AEM GEMs webinar will include a presentation and demo on the following:Explore the new features released in the last year, an update on behind-the-scenes … (Descriptions should be between 60 and 160 characters)
 version: Experience Manager
 feature: Cloud Manager
 topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
-
 ---
 
+# Looking under the hood - Cloud Manager 2022
 
-# 후드형 - Cloud Manager 2022
+*This webinar has been conducted on June 15th - 3pm UTC. Please view the recording below.*
 
-*이 웨비나는 6월 15일 오후 3시 UTC에 수행되었습니다. 아래 기록을 확인하십시오.*
+Session description:
+Explore the new features released in the last year, an update on behind-the-scenes developments, and a look forward into the rest of 2022. Details about how Cloud Manager works under the hood and how a customer can make the best use of it.  
 
-세션 설명: 지난 해 발표된 새로운 기능, 배후에서 제공되는 최신 개선 사항 및 2022년 나머지 사항을 살펴보십시오. Cloud Manager가 후드에서 작동하는 방식과 고객이 이를 최대한 활용할 수 있는 방법에 대한 자세한 정보입니다.  
+The content applies to both Adobe Experience Manager as a Cloud Service and Experience Manager Managed Services, with a focus on Cloud Service. It’s suitable for technical and nontechnical attendees alike. Prior exposure to Cloud Manager can help for context, but it isn’t necessary.
 
-컨텐츠는 Cloud Service에 중점을 두고 Adobe Experience Manager as a Cloud Service과 Experience Manager Managed Services 모두에 적용됩니다. 기술 및 비기술 참석자에게도 적합합니다. Cloud Manager에 노출되기 전에 상황에 도움이 될 수 있지만 필요하지 않습니다.
-
-**웨비나 기록**
+**Webinar Recording**
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
->* Experience League 시 세션별 커뮤니티 상호 작용에 대해서는 다음 사이트를 방문하십시오 [컨텍스트 스레드](https://adobe.ly/3O0rdzd)
->* 웨비나에 대한 자동 알림을 받으려면 다음에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
-
+>* For session specific community interactions on Experience League, please visit this [Contextual Thread](https://adobe.ly/3O0rdzd)
+>* To receive automatic notifications regarding webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).

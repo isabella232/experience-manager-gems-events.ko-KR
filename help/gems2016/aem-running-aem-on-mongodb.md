@@ -1,36 +1,30 @@
 ---
-title: MongoDB에서 AEM 실행
-description: 이 AEM Gem은 프로덕션 설정에서 MongoDB에서 AEM을 실행하는 방법을 자세히 설명합니다. MongoDB의 배포 옵션을 제공하고 권장 배포를 강조 표시하고 이러한 권장 사항에 대한 논리를 설명합니다.
+title: Running AEM on MongoDB
+description: This AEM Gem will detail how to run AEM on MongoDB in a production setting. We will present the options MongoDB has for deployment, highlight recommended deployment and explain the rationale for those recommendations.
 uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
 exl-id: d86bcd79-48a5-4de2-a1c9-97e005b3c967
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 1%
-
 ---
+# Running AEM on MongoDB{#running-aem-on-mongodb}
 
-# MongoDB에서 AEM 실행{#running-aem-on-mongodb}
-
-이 AEM Gem은 프로덕션 설정에서 MongoDB에서 AEM을 실행하는 방법을 자세히 설명합니다. MongoDB의 배포 옵션을 제공하고 권장 배포를 강조 표시하고 이러한 권장 사항에 대한 논리를 설명합니다.
+This AEM Gem will detail how to run AEM on MongoDB in a production setting. We will present the options MongoDB has for deployment, highlight recommended deployment and explain the rationale for those recommendations.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19304/?quality=9)
 
-*2016년 3월 23일 제공*
+*Delivered March 23, 2016*
 
-**제공 사람:**
+**Presented by:**
 
-* Ian Boston, 선임 소프트웨어 엔지니어, Adobe
+* Ian Boston, Senior Software Engineer, Adobe
 
-**발표자 슬라이드**
+**Presenter slides**
 
-[파일 가져오기](assets/aem-gems-032316-onmongodb.pdf)
+[Get File](assets/aem-gems-032316-onmongodb.pdf)
 
-## 관련 링크 {#related-links}
+## Related links {#related-links}
 
-[AEM과 MongoDB](https://docs.adobe.com/content/docs/en/aem/6-1/deploy/platform/aem-with-mongodb.html)
+[AEM with MongoDB](https://docs.adobe.com/content/docs/en/aem/6-1/deploy/platform/aem-with-mongodb.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

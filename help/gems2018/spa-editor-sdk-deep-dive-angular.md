@@ -1,46 +1,40 @@
 ---
-title: SPA Editor SDK 심층 분석 - 2부 - Angular
-description: AEM 페이지 편집기를 사용하여 작성할 수 있는 단일 페이지 애플리케이션 개발에 대해 자세히 살펴봅니다.
+title: SPA Editor SDK Deep Dive - Part 2 - Angular
+description: Deep dive with us into the development of Single-Page-Applications that can be authored using the AEM Page Editor.
 uuid: 4ac2d85b-63f9-4d74-a8c0-7857be6b3d84
 discoiquuid: 3b050b88-e1c3-4a42-81ce-bd1b321a01e7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 5%
-
 ---
 
+# SPA Editor SDK Deep Dive - Part 2 - Angular{#spa-editor-sdk-deep-dive-part-angular}
 
-# SPA Editor SDK 심층 분석 - 2부 - Angular{#spa-editor-sdk-deep-dive-part-angular}
+Deep dive with us into the development of Single-Page-Applications that can be authored using the AEM Page Editor. In this session, you will have access to the following content in regards to Angular:
 
-AEM 페이지 편집기를 사용하여 작성할 수 있는 단일 페이지 애플리케이션 개발에 대해 자세히 살펴봅니다. 이 세션에서는 Angular과 관련하여 다음 컨텐츠에 액세스할 수 있습니다.
-
-* 프로젝트 구조에 대한 고려 사항 및 권장 사항
-* 프로젝트의 아키텍처를 구성하는 모든 레이어 검토
-* AEM 및 SPA 구성 요소의 역할에 대한 통찰력
-* 모델 개체의 구조 및 주요 JSON 필드
-* 유용한 코드 조각
-* SDK에서 제공하는 구성 요소 둘러보기
-* 주요 구현 세부 사항
+* Considerations and recommendations about the structure of projects
+* Review of all the layers that compose the architecture of a project
+* Insight into the role of AEM and SPA components
+* Structure and key JSON fields of the model object
+* Useful code snippets
+* Tour of the components provided by the SDK
+* Key implementation details
 
 >[!VIDEO](https://video.tv.adobe.com/v/25503/?quality-9)
 
-*배달됨 11/21/18*
+*Delivered 11/21/18*
 
-제공 사람: Artur Kudlacz, 개발자, Adobe
+Presented by: Artur Kudlacz, Developer, Adobe
 
-발표자 슬라이드 - 11/21/18
+Presenter slides - 11/21/18
 
-[파일 가져오기](assets/aem-gems-aem-spaeditorangular-112118.pdf)
+[Get File](assets/aem-gems-aem-spaeditorangular-112118.pdf)
 
-## 관련 링크 {#related-links}
+## Related links {#related-links}
 
-[주말 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=ko-KR)
+[Weekend Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
-[설명서](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[Documentation](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
-[샘플 - We retail journal](https://github.com/adobe/aem-sample-we-retail-journal)
+[Sample - We retail journal](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
