@@ -1,30 +1,36 @@
 ---
-title: hybris/AEM 5.6 eCommerce framework integration
-description: Learn about our integration solution for hybris into AEM. We begin with an overview of how the connector integrates with the eCommerce framework and what the general workflows are when using this solution. Then, we go into more depth talking about how the connector can be extended and / or customized in order to adapt to project-specific needs.
+title: hybris/AEM 5.6 eCommerce 프레임워크 통합
+description: AEM에 hybris를 위한 통합 솔루션에 대해 알아봅니다. 먼저 커넥터가 eCommerce 프레임워크와 통합되는 방식과 이 솔루션을 사용할 때 일반적인 워크플로우가 무엇인지에 대한 개요로 시작합니다. 그런 다음 프로젝트별 요구 사항에 맞게 커넥터를 확장 및/또는 사용자 지정할 수 있는 방법에 대해 자세히 살펴봅니다.
 uuid: d09192f9-c9a3-43db-8538-d581838e1e27
 discoiquuid: 7fc5a2ec-df8c-44c1-95d0-050d77f82349
 targetaudience: target-audience advanced
 exl-id: 5f483b84-db10-42a7-9d3f-e50d21468825
----
-# hybris/AEM 5.6 eCommerce framework integration{#hybris-aem-ecommerce-framework-integration}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 1%
 
-In this session, we present our integration solution for hybris into AEM. We begin with an overview of how the connector integrates with the eCommerce framework and what the general workflows are when using this solution. Then, we go into more depth talking about how the connector can be extended and / or customized in order to adapt to project-specific needs.
+---
+
+# hybris/AEM 5.6 eCommerce 프레임워크 통합{#hybris-aem-ecommerce-framework-integration}
+
+이 세션에서는 hybris를 위한 통합 솔루션을 AEM에 제공합니다. 먼저 커넥터가 eCommerce 프레임워크와 통합되는 방식과 이 솔루션을 사용할 때 일반적인 워크플로우가 무엇인지에 대한 개요로 시작합니다. 그런 다음 프로젝트별 요구 사항에 맞게 커넥터를 확장 및/또는 사용자 지정할 수 있는 방법에 대해 자세히 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19578/?quality=9)
 
-*Delivered May 13, 2013*
+*2013년 5월 13일 배송*
 
-**Presented by:**
+**제공 사람:**
 
-Felix Oghina, Adobe Product Developer
+Felix Oghina, Adobe 제품 개발자
 
-**Presenter slides**
+**발표자 슬라이드**
 
-[Get File](assets/hybris-aem-5-6-ecommerce-framework-integration.pdf)
+[파일 가져오기](assets/hybris-aem-5-6-ecommerce-framework-integration.pdf)
 
-## Related links {#related-links}
+## 관련 링크 {#related-links}
 
-[Documentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/ecommerce/eCommerce-framework.html#Deploying%20eCommerce%20with%20hybris)
+[설명서](https://docs.adobe.com/content/docs/en/cq/5-6-1/ecommerce/eCommerce-framework.html#Deploying%20eCommerce%20with%20hybris)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -1,6 +1,6 @@
 ---
-title: AEM GEM Sessions
-description: This is the landing page for AEM GEMs including information on the webinar series and registration info, previous and upcoming webinars
+title: AEM GEM 세션
+description: 웨비나 시리즈에 대한 정보와 등록 정보, 이전 및 예정된 웨비나에 대한 정보를 포함하는 AEM GEMs의 랜딩 페이지입니다
 role: Leader
 exl-id: f8d210e7-b05c-4c71-9640-2cc50e2b309f
 cloud: Experience Cloud
@@ -9,41 +9,46 @@ solution: Experience Manager
 feature: Release Information
 level: Intermediate
 type: Event
-user-guide-description: AEM GEM Sessions
+user-guide-description: AEM GEM 세션
+source-git-commit: 88f872c25aafb17c0e57103c3918265c36f02745
+workflow-type: tm+mt
+source-wordcount: '268'
+ht-degree: 2%
 
 ---
+
 # Adobe Experience Manager Gems
 
-<img alt="Digital Experiences" src="./assets/ADX_Gems.png"/>
+<img alt="디지털 경험" src="./assets/ADX_Gems.png"/>
 
-## 2022 Relaunch of AEM GEMs
+## AEM GEM의 2022 재출시.
 
-Welcome to **AEM GEMs** - our webinar series of technical deep dives on Adobe Experience Manager, delivered by Adobe experts. This series is a complement of the product documentation and of all other technical channels regarding Adobe Experience Manager, allowing developers to get in touch and go deep on a specific topic.
+시작 **AEM GEM** - Adobe 전문가가 제공하는 Adobe Experience Manager에 대한 기술적인 세부 사항을 살펴보는 웨비나 시리즈입니다. 이 시리즈는 제품 설명서 및 Adobe Experience Manager과 관련된 기타 모든 기술 채널을 보완하여 개발자가 특정 주제를 선택하여 자세히 알아볼 수 있도록 합니다.
 
-The webinars will be conducted regularly, including the following:
+웨비나는 다음을 포함하여 정기적으로 수행됩니다.
 
-* A maximum duration of 60 minutes
-* Q&A at the end and chat experts available throughout the webinar
-* Recording available after each webinar
-* Webinar is free of charge
+* 최대 60분
+* 웨비나 전체에서 사용할 수 있는 채팅 전문가 및 최종 질문
+* 각 웨비나 후에 녹음 가능
+* 웨비나는 무료입니다
 
-## Upcoming Webinar and Registration
+## 예정된 웨비나 및 등록
 
-All our AEM GEMs webinars are free of charge and conducted virtually. 
-* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about our upcoming webinars.
+모든 AEM GEMs 웨비나는 무료로 제공되며 사실상 시행되었습니다.
+* 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대한 알림을 받으려면 다음을 수행하십시오.
 
-## Experience League Community
+## Experience League 커뮤니티
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
+Adobe [Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) 제품 채택과 고객 성공을 지원하는 데 중요한 역할을 합니다.
 
-* Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
-* Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions
-* Ideation & Feedback: Intake customer product ideas and provide valuable VoC feedback to product teams
+* 연결: 구현, 제품 사용 확장에 이르기까지 다양한 지침과 모범 사례를 제공하는 동료 및 Adobe 담당자와 네트워크 연결
+* 빠른 답변: Adobe 솔루션의 성공적인 활성 사용을 지원하기 위한 다양한 실제 사용 사례 답변 제공
+* 아이디어 및 피드백: 고객 제품 아이디어를 수집하고 제품 팀에 중요한 VoC 피드백을 제공합니다.
 
-## Previous webinar recording
+## 이전 웨비나 기록
 
-Our last webinar was about **Integrate AEM & CIF framework to build a rich and immersive e-commerce experience** and was conducted April 27th.
+마지막 웨비나는 **AEM 및 CIF 프레임워크를 통합하여 풍부하고 몰입형 전자 상거래 환경을 구축합니다** 4월 27일에 수행되었습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
-This webinar was presented by Kunal Gaba & Vinay Kumar, both Technical Architects at Adobe.
+이 웨비나는 Adobe의 기술 설계자인 쿠날 가바 &amp; 비나이 쿠마르에 의해 발표되었습니다.

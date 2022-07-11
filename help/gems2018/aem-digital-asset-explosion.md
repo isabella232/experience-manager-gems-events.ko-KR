@@ -1,33 +1,39 @@
 ---
-title: The Digital Asset Explosion & AEM Assets
-description: Learn about the digital asset explosion and AEM Assets at Adobe.
+title: 디지털 자산 폭발과 AEM Assets
+description: Adobe의 디지털 자산 급증과 AEM Assets에 대해 알아봅니다.
 uuid: 236f688c-82c0-46dd-bbdc-e9c8552152c4
 discoiquuid: b3ec974b-8173-4dad-b349-88c4da78ce89
 targetaudience: target-audience advanced
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 1%
+
 ---
 
-# The Digital Asset Explosion & [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 
-At Adobe, we have been observing an explosion in digital assets in 4 key areas:
+# 디지털 자산 폭발 및 [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 
-* The file size of digital assets being produced
-* The number of digital assets being produced
-* The expectations of our users and customers for digital assets
-* The requests for larger and larger [!DNL AEM Assets] deployments
+Adobe에서 우리는 4가지 주요 영역에서 디지털 자산의 폭발을 관찰했습니다.
 
-In this session, we will learn about the Digital Asset Explosion, understanding the scale of AEM as assets explode, and follow a customer example through the lifecycle of their [!DNL AEM Assets] project. 
+* 생성되는 디지털 자산의 파일 크기입니다
+* 생성되는 디지털 자산 수
+* 디지털 자산에 대한 사용자 및 고객의 기대
+* 더 크고 더 큰 요청 [!DNL AEM Assets] 배포
+
+이 세션에서 Digital Asset Exploding에 대해 알아보고, 자산이 폭발할 때 AEM의 크기를 이해한 다음, 해당 자산의 라이프사이클에 대한 고객 사례를 따릅니다 [!DNL AEM Assets] 프로젝트.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21474/?quality=9)
 
-*Delivered January 31, 2018*
+*2018년 1월 31일 배송*
 
-**Presented by:**
+**제공 사람:**
 
-Clint Goudie-Nice, Sr. Software Engineer, Adobe
+Client Gooddie-Nice, Sr 소프트웨어 엔지니어, Adobe
 
-**Presenter slides**
+**발표자 슬라이드**
 
-[Get File](assets/1+30+18+the+digital+asset+explosion+gems.pdf)
+[파일 가져오기](assets/1+30+18+the+digital+asset+explosion+gems.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

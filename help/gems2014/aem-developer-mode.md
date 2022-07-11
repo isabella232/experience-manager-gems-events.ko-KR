@@ -1,34 +1,40 @@
 ---
-title: AEM 6.0 Developer Mode
-description: Learn about the Developer Mode in AEM 6.0.
+title: AEM 6.0 개발자 모드
+description: AEM 6.0의 개발자 모드에 대해 알아봅니다.
 uuid: ade5e9fd-a81a-4cec-a6ea-fff8cbaf4777
 discoiquuid: cbfc5299-e915-4ac5-8ce6-57a289b973ec
 targetaudience: target-audience advanced
 exl-id: b3cb97da-1b9e-4bdf-85e3-b438822baba0
+source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 5%
+
 ---
-# AEM 6.0 Developer Mode{#aem-developer-mode}
 
-David introduces you to the Developer Mode in AEM 6.O. Developer mode is: 
+# AEM 6.0 개발자 모드{#aem-developer-mode}
 
-* A bridge between authors and developer (Component Tree)
-* A debugging helper (errors notifier) 
-* A test companion (application testing tool) (Hobbes.js AEM Implementation)
+David은 AEM 6.O에서 개발자 모드를 소개합니다. 개발자 모드는 다음과 같습니다.
+
+* 작성자와 개발자 간 브리지(구성 요소 트리)
+* 디버깅 도우미(오류 알림)
+* 테스트 도우미(애플리케이션 테스트 도구)(Hobbes.js AEM 구현)
 
 >[!VIDEO](https://video.tv.adobe.com/v/19501/?quality=9)
 
-*Delivered July 16, 2014*
+*2014년 7월 16일 배송*
 
-**Presented by:**
+**제공 사람:**
 
-David Catalan, QE Developer, Adobe
+David Catalog, QE 개발자, Adobe
 
-**Presenter slides**
+**발표자 슬라이드**
 
-[Get File](assets/aem-6-developer-mode-07-16-14.pdf)
+[파일 가져오기](assets/aem-6-developer-mode-07-16-14.pdf)
 
-**Session Questions and Answers**
+**세션 질문 및 답변**
 
-[Get File](assets/q-a-developer-mode-7-16-14.pdf)
+[파일 가져오기](assets/q-a-developer-mode-7-16-14.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

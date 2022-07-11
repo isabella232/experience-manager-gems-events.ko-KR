@@ -1,34 +1,40 @@
 ---
-title: Efficiently build reusable components
-description: Learn why it is critical for your team's efficiency to enable the HTML web developers to be fully integrated to the AEM project, and how this can be made possible. Also learn about the new foundation components, which are built with server-side JavaScript and with HTL, and how to reuse and extend them.
+title: 재사용 가능한 구성 요소를 효율적으로 구축
+description: HTML 웹 개발자를 AEM 프로젝트에 완전히 통합할 수 있도록 팀이 하는 효율성이 중요한 이유와 이를 가능하게 하는 방법을 알아봅니다. 또한 서버측 JavaScript와 HTL을 사용하여 빌드된 새로운 기초 구성 요소와 재사용 및 확장 방법을 알아봅니다.
 uuid: 445d4ead-8055-4624-a618-edd67ee3ec2d
 discoiquuid: 8c411732-3462-4ea1-9bca-e3e1cd6ac3f0
 targetaudience: target-audience advanced
 exl-id: ae46243b-4c58-4b7a-92a0-fb2900e02a8f
----
-# Efficiently build reusable components{#efficiently-build-reusable-components}
+source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
+workflow-type: tm+mt
+source-wordcount: '196'
+ht-degree: 2%
 
-With the Brackets and Eclipse IDE plugins, the HTL template language, and the new foundation components, Adobe Experience Manager 6.0 brings a new spin to your component development workflow. Learn why it is critical for your team's efficiency to enable the HTML web developers to be fully integrated to the AEM project, and how this can be made possible. Also learn about the new foundation components, which are built with server-side JavaScript and with HTL, and how to reuse and extend them. This is a follow up session of "Introduction to HTL", while we recommend attending both sessions there is no requirement to attend both.
+---
+
+# 재사용 가능한 구성 요소를 효율적으로 구축{#efficiently-build-reusable-components}
+
+Adobe Experience Manager 6.0은 Brackets 및 Eclipse IDE 플러그인, HTL 템플릿 언어 및 새로운 기초 구성 요소를 사용하여 구성 요소 개발 워크플로우에 새로운 스핀을 제공합니다. HTML 웹 개발자를 AEM 프로젝트에 완전히 통합할 수 있도록 팀이 하는 효율성이 중요한 이유와 이를 가능하게 하는 방법을 알아봅니다. 또한 서버측 JavaScript와 HTL을 사용하여 빌드된 새로운 기초 구성 요소와 재사용 및 확장 방법을 알아봅니다. 이 항목은 &quot;HTL 소개&quot;의 후속 세션이지만 두 세션에 모두 참석해야 할 필요는 없습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19503/?quality=9)
 
-*Delivered July 2, 2014*
+*2014년 7월 2일 제공*
 
-**Presented by:**
+**제공 사람:**
 
-Gabriel Walt, Product Manager, Adobe
+Gabriel Walt, 제품 관리자, Adobe
 
-**Presenter slides**
+**발표자 슬라이드**
 
-[Get File](assets/efficiently-build-reusable-components.pdf)
+[파일 가져오기](assets/efficiently-build-reusable-components.pdf)
 
-**Session Questions and Answers**
+**세션 질문 및 답변**
 
-[Get File](assets/efficiently-build-reusable-components-q-a.pdf)
+[파일 가져오기](assets/efficiently-build-reusable-components-q-a.pdf)
 
-## Related links {#related-links}
+## 관련 링크 {#related-links}
 
-[AEM HTL Brackets Extension](https://github.com/Adobe-Marketing-Cloud/aem-brackets-extension#AEM6#BeautifulMarkup)
+[AEM HTL Brackets 확장](https://github.com/Adobe-Marketing-Cloud/aem-brackets-extension#AEM6#BeautifulMarkup)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
