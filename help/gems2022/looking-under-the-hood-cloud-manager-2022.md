@@ -1,13 +1,13 @@
 ---
 title: Cloud Manager 2022
 description: 이 AEM GEMs 웨비나에는 다음에 대한 프레젠테이션 및 데모가 포함될 예정입니다.:지난 해에 릴리스된 새로운 기능을 살펴보거나, 현장 업데이트..(설명은 60자에서 160자 사이여야 함)
-version: Experience Manager
+version: Cloud Service
 feature: Cloud Manager
 topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
+source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

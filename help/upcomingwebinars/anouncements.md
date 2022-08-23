@@ -1,12 +1,12 @@
 ---
 title: 공지
 description: 예정된 세션이 아직 정의되지 않은 경우 이 페이지가 표시됩니다.
-version: Experience Manager
+version: Cloud Service
 feature: Release Information
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: d0fef69c8934fdbb79fc1768f7e3eb673891b5d4
+source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%

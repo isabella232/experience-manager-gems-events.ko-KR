@@ -1,13 +1,13 @@
 ---
 title: AEM 및 CIF 프레임워크를 통합하여 풍부하고 몰입형 전자 상거래 환경을 구축합니다
 description: Adobe의 CIF 프레임워크를 사용하여 일관된 컨텐츠 및 몰입형 상거래 환경을 구축하는 방법을 이해합니다.
-version: Experience Manager
+version: Cloud Service
 feature: Integrations
 topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-source-git-commit: 3ae9186bba2e82b6084dbced62129e5e693722fb
+source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
