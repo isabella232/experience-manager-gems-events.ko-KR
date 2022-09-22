@@ -1,7 +1,7 @@
 ---
 title: 사용 중인 AEM 헤드리스의 고객 사용 사례 및 구현
 description: 세션 공지
-version: 6.5
+version: Experience Manager
 feature: AEM Community Lens
 topic: Administration
 role: User
