@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager GEMS 이벤트
 user-guide-description: Adobe Experience Manager 전문가가 제공하는 일련의 기술적인 분석인 AEM Gems에 대해 알아보십시오.
 breadcrumb-title: AEM GEMs 이벤트
 feature-set: Experience Manager
-source-git-commit: 242bef6c08cf6579add0d5754280831d062b0add
+source-git-commit: 9ad6ce49d6728e36168482133f3017303c90c72f
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '616'
 ht-degree: 3%
 
 ---
@@ -15,22 +15,23 @@ ht-degree: 3%
 
 + [개요](overview.md)
 + 예정된 웨비나{#upcomingwebinars}
-   + [사용 중인 AEM 헤드리스의 고객 사용 사례 및 구현](/help/upcomingwebinars/customer-use-case-and-implementation-of-aem-headless-in-use.md)
+   + [공지](/help/upcomingwebinars/anouncements.md)
 + 2022{#gems2022}
+   + [사용 중인 AEM 헤드리스의 고객 사용 사례 및 구현](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [후드형 - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [AEM 및 CIF 프레임워크를 통합하여 풍부하고 몰입형 전자 상거래 환경을 구축합니다](gems2022/aem-and-cif-framework-integration.md)
    + [AEM Headless 및 App Builder를 사용하여 보다 신속하게 웹 사이트 제작](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service: 2021년 검토 및 2022년 전망](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020{#gems2020}
    + [AEM 6.5 전세계 지원 - 번역 통합 및 우수 사례](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
-+ 2019년{#gems2019}
++ 2019{#gems2019}
    + [Experience Manager 6.5의 새로운 기능 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [AEM 리치 텍스트 편집기(RTE) 심층 분석](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [ContextHub에서 저장소, 모듈 및 세그먼트의 구현 세부 사항을 자세히 살펴보십시오](gems2019/contexthub-deep-dive.md)
    + [AEM 6.5를 사용하여 헤드리스 옴니채널 경험 만들기](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
    + [AEM 현대화 세트 소개](gems2019/introducing-the-aem-modernization-suite.md)
    + [AEM Screens용 작성자 게시 활용](gems2019/leveraging-author-publish-for-aem-screens.md)
-+ 2018년{#gems2018}
++ 2018{#gems2018}
    + [Adobe Experience Manager 6.4 살펴보기](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform - Experience Cloud의 중심](gems2018/aem-acp.md)
    + [실시간 및 경량: Adobe I/O 이벤트를 사용하여 AEM와의 이벤트 기반 통합 구축](gems2018/aem-adobe-io.md)
