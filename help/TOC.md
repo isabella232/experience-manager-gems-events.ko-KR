@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager GEMS 이벤트
 user-guide-description: Adobe Experience Manager 전문가가 제공하는 일련의 기술적인 분석인 AEM Gems에 대해 알아보십시오.
 breadcrumb-title: AEM GEMs 이벤트
 feature-set: Experience Manager
-source-git-commit: c4e4a2e012d5ca7f844fc878f87fbaf161eb0d59
+source-git-commit: 963a6c4169c6bc81e9801e0b5e676d50473c7d1f
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '615'
 ht-degree: 3%
 
 ---
@@ -14,8 +14,7 @@ ht-degree: 3%
 # GEMS 이벤트 Experience Manager {#gems}
 
 + [개요](overview.md)
-+ 예정된 웨비나{#upcomingwebinars}
-   + [공지](/help/upcomingwebinars/announcements.md)
+   + [예정된 웨비나](/help/announcements.md)
 + 2022{#gems2022}
    + [사용 중인 AEM 헤드리스의 고객 사용 사례 및 구현](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [후드형 - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
