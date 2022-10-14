@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM 세션
-source-git-commit: 88f872c25aafb17c0e57103c3918265c36f02745
+source-git-commit: 1e3446dde6cff9498ed3982c092b5cab7e541a8c
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '294'
 ht-degree: 2%
 
 ---
@@ -20,6 +20,34 @@ ht-degree: 2%
 # Adobe Experience Manager Gems
 
 <img alt="디지털 경험" src="./assets/ADX_Gems.png"/>
+
+## 예정된 AEM GEMs 이벤트!
+
+<!---  Remove the comment marks, and put the upcoming event in the below table
+
+<table style="max-width: 1214px;">
+<tr>
+  <td style="vertical-align: top;">
+    <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+      <img alt="Experience League LIVE Oct 25" src="assets/Oct25_2022_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+        <strong>Deliver the right offer at the right time with decision management</strong>
+      </a>
+      <br/><em>with Sandra Hausmann, Ben Tepfer, Brandon Poyfair, and Jason Hickey</em>
+      <br/><em>October 25, 2022</em>
+    </div>
+  </td>
+</tr>
+</table>
+
+--->
+예정된 AEM GEM에 대한 자세한 내용은 2022년 11월에 제공될 예정입니다.
+
+>[!NOTE]
+>
+> 에서 예정된 GEMS 세션에 대한 알림을 받으려면 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
 
 ## AEM GEM의 2022 재출시.
 
@@ -32,10 +60,9 @@ ht-degree: 2%
 * 각 웨비나 후에 녹음 가능
 * 웨비나는 무료입니다
 
-## 예정된 웨비나 및 등록
-
 모든 AEM GEMs 웨비나는 무료로 제공되며 사실상 시행되었습니다.
-* 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대한 알림을 받으려면 다음을 수행하십시오.
+
+등록 위치 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대한 알림을 받으려면 다음을 수행하십시오.
 
 ## Experience League 커뮤니티
 
