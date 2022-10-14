@@ -3,7 +3,7 @@ user-guide-title: Adobe Experience Manager GEMS 이벤트
 user-guide-description: Adobe Experience Manager 전문가가 제공하는 일련의 기술적인 분석인 AEM Gems에 대해 알아보십시오.
 breadcrumb-title: AEM GEMs 이벤트
 feature-set: Experience Manager
-source-git-commit: 963a6c4169c6bc81e9801e0b5e676d50473c7d1f
+source-git-commit: a79a6bf9f22e7ba171bdb08a1be27978c669ef63
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 3%
@@ -15,22 +15,22 @@ ht-degree: 3%
 
 + [개요](overview.md)
    + [예정된 웨비나](/help/announcements.md)
-+ 2022{#gems2022}
++ 2022 {#gems2022}
    + [사용 중인 AEM 헤드리스의 고객 사용 사례 및 구현](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [후드형 - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [AEM 및 CIF 프레임워크를 통합하여 풍부하고 몰입형 전자 상거래 환경을 구축합니다](gems2022/aem-and-cif-framework-integration.md)
    + [AEM Headless 및 App Builder를 사용하여 보다 신속하게 웹 사이트 제작](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service: 2021년 검토 및 2022년 전망](gems2022/aemcloudservice-2021-review-and-outlook.md)
-+ 2020{#gems2020}
++ 2020 {#gems2020}
    + [AEM 6.5 전세계 지원 - 번역 통합 및 우수 사례](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
-+ 2019{#gems2019}
++ 2019 {#gems2019}
    + [Experience Manager 6.5의 새로운 기능 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [AEM 리치 텍스트 편집기(RTE) 심층 분석](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [ContextHub에서 저장소, 모듈 및 세그먼트의 구현 세부 사항을 자세히 살펴보십시오](gems2019/contexthub-deep-dive.md)
    + [AEM 6.5를 사용하여 헤드리스 옴니채널 경험 만들기](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
    + [AEM 현대화 세트 소개](gems2019/introducing-the-aem-modernization-suite.md)
    + [AEM Screens용 작성자 게시 활용](gems2019/leveraging-author-publish-for-aem-screens.md)
-+ 2018{#gems2018}
++ 2018 {#gems2018}
    + [Adobe Experience Manager 6.4 살펴보기](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform - Experience Cloud의 중심](gems2018/aem-acp.md)
    + [실시간 및 경량: Adobe I/O 이벤트를 사용하여 AEM와의 이벤트 기반 통합 구축](gems2018/aem-adobe-io.md)
@@ -47,7 +47,7 @@ ht-degree: 3%
    + [SPA Editor SDK 심층 분석 - 1부 - React](gems2018/spa-editor-sdk-deep-dive-react.md)
    + [SPA Editor SDK 심층 분석 - 2부 - angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [AEM에서 OSGi R7 사용](gems2018/using-osgi-r7-in-aem.md)
-+ 2017년{#gems2017}
++ 2017년 {#gems2017}
    + [자산 공유에 대한 주요 Brand Portal 릴리스 및 새로운 참조 구현](/help/gems2017/aem-brand-portal.md)
    + [AEM 상태 검사 빌드](/help/gems2017/aem-building-health-checks-for-aem.md)
    + [AEM용 OSGi 번들 및 서비스 개발](/help/gems2017/aem-developing-osgi-bundles-services-for-aem.md)
@@ -63,7 +63,7 @@ ht-degree: 3%
    + [AEM 6.3 전세계 지원 - 번역 통합 및 우수 사례](/help/gems2017/aem-translation-best-practices.md)
    + [AEM 복제 문제 해결](/help/gems2017/aem-troubleshooting-aem-replication.md)
    + [Sling 컨텐츠 배포 문제 해결](/help/gems2017/aem-troubleshooting-sling.md)
-+ 2016년{#gems2016}
++ 2016년 {#gems2016}
    + [Enterprise용 DAM 구성](/help/gems2016/aem-configuring-dam-for-enterprise.md)
    + [AEM Screens 소개](/help/gems2016/aem-introduction-to-aem-screens.md)
    + [Adobe Experience Manager의 템플릿 편집기를 사용하여 컨텐츠를 관리합니다](/help/gems2016/aem-managing-content-with-template-editor.md)
@@ -74,7 +74,7 @@ ht-degree: 3%
    + [Adobe Experience Manager 애플리케이션을 테스트하는 데 사용하는 도구](/help/gems2016/aem-testing-tools-for-aem-apps.md)
    + [Adobe Experience Manager 배포에서 SAML 사용](/help/gems2016/aem-utilizing-saml-in-aem-deployments.md)
    + [AEM 웹 성능](/help/gems2016/aem-web-performance.md)
-+ 2015년{#gems2015}
++ 2015년 {#gems2015}
    + [AEM 6.1 번역 통합 및 모범 사례](/help/gems2015/aem-6-1-translation-integration-and-best-practices.md)
    + [AEM 6.1을 사용하여 온라인 커뮤니티 만들기](/help/gems2015/aem-creating-online-communities-with-aem-6-1.md)
    + [Touch UI에서 대화 상자 필드 사용자 지정](/help/gems2015/aem-customizing-dialog-fields-in-touch-ui.md)
@@ -88,7 +88,7 @@ ht-degree: 3%
    + [AEM 기술 살짝 엿보기](/help/gems2015/aem-tech-sneak-peek.md)
    + [팁과 트릭 [!DNL AEM Sites] Touch UI](/help/gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [JavaScript 프로젝트의 품질 지표 추적](/help/gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
-+ 2014년{#gems2014}
++ 2014년 {#gems2014}
    + [DTM 클라우드 서비스를 통해 로컬 AEM 인스턴스에 Adobe Analytics 배포](/help/gems2014/aem-adobe-analytics-dynamic-tag-management.md)
    + [DAM 기능 팩을 최대한 활용하는 방법](/help/gems2014/aem-dam-feature-pack.md)
    + [기본 앱에 관리 컨텐츠 제공](/help/gems2014/aem-delivering-managed-content-to-your-native-apps.md)
@@ -105,7 +105,7 @@ ht-degree: 3%
    + [AEM 6 플랫폼에 대한 기술 강화](/help/gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
    + [AEM 6 Platform 기술 개요](/help/gems2014/aem-technical-overview-of-the-aem-6-platform.md)
    + [AEM 6용 사용자 인터페이스 사용자 지정](/help/gems2014/aem-user-interface-customization-for-aem6.md)
-+ 2013년{#gems2013}
++ 2013년 {#gems2013}
    + [AEM 5.6 플랫폼 아키텍처](/help/gems2013/aem-architecture-of-the-aem-5-6-platform.md)
    + [CQ/AEM 5.6 문제 해결](/help/gems2013/aem-cq-aem-5-6-troubleshooting.md)
    + [eCommerce Integration Framework](/help/gems2013/aem-ecommerce-integration-framework.md)
@@ -119,7 +119,7 @@ ht-degree: 3%
    + [AEM 5.6 업그레이드 메커니즘](/help/gems2013/aem-upgrade-mechanisms.md)
 
 <!---
-+ [Archive]{#archive}
++ [Archive] {#archive}
     + [AEM 6 Oak: MongoMK and Queries](archive/aem-oak-mongomk-and-queries.md)
     + [Search forms made easy with the AEM querybuilder](archive/aem-search-forms-using-querybuilder.md)
     + [Deep Dive on implementation details of stores, modules and segments in ContextHub](archive/contexthub-deep-dive.md)
