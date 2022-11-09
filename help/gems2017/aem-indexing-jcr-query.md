@@ -2,10 +2,10 @@
 title: AEM 색인 지정 및 JCR 쿼리
 description: AEM 색인 지정 및 쿼리 우수 사례 AEM의 쿼리 문제를 해결하는 방법 및 인덱스를 구성하고 관리하는 방법입니다.
 uuid: d4f70700-328c-42f9-9fd8-5181d2ba1697
-topic-tags: best_practices
+topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+source-git-commit: f563ff48e6721c5d7c3b609506c09049b08d88b4
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 9%
