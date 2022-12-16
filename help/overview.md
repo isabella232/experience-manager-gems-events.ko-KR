@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM 세션
-source-git-commit: b537a225b4bfe26172cf0e4798a79715718c6f83
+source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '318'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 1%
 --->
 예정된 AEM GEM 웨비나: *온-프레미스 및 AMS 환경을 위한 AEM 우수 사례 분석기*.
 시간: 1월 18일 오후 5시 CET / 오전 8시 PST / 오후 9.30시 IST 리소스: [AEM 우수 사례 분석기](/help/gems2022/aem-best-practices-analyzer.md)
-등록: [웨비나 등록](https://aem-augs.adobe.com/)
+등록: [웨비나 등록](https://aem-augs.adobe.com/e/mz8eae/)
 
 >[!NOTE]
 >
