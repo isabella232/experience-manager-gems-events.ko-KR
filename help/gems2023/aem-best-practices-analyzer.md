@@ -7,20 +7,16 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 57071c7c13f7a4314961bb246bbe9076d110e58c
+source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
 # 온-프레미스 및 AMS 환경을 위한 AEM 우수 사례 분석기
 
-## 시간: 2023년 1월 18일
-
-## 등록
-
-이 웨비나는 [Adobe AEM 사용자 그룹](https://aem-augs.adobe.com/).
+## 이 웨비나는 2023년 1월 18일에 제공되었습니다. 아래 기록을 확인하십시오
 
 ## 설명
 
@@ -34,3 +30,12 @@ AEM 우수 사례 분석기는 AEM as a Cloud Service 환경에 적용할 수 �
 * Kiran Murugura, Adobe 수석 클라우드 아키텍트
 * Vaibhav Varshney, 컴퓨터 과학자, Adobe
 * Himani Chauhan, 컴퓨터 과학자, Adobe
+
+## 웨비나 기록 - 01/18/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
+
+>[!NOTE]
+>
+>* Experience League 시 세션별 커뮤니티 상호 작용에 대해서는 다음 사이트를 방문하십시오 [컨텍스트 스레드](https://bit.ly/3Z6AyM1)
+>* 웨비나에 대한 자동 알림을 받으려면 다음에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
