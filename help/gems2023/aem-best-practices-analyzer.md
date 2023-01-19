@@ -7,7 +7,7 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
+source-git-commit: 9d0b0f54f81e5dcc2f169b1e3420a1bca3e8d0a5
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -25,9 +25,9 @@ AEM 우수 사례 분석기는 AEM as a Cloud Service 환경에 적용할 수 �
 
 ### 발표자
 
-* Aditi Dutt Chiphari, Adobe 제품 관리자
+* Aditi Dutt Chipuli, Adobe 제품 관리자
 * Saurabh Saxena, Adobe 엔지니어링 관리자
-* Kiran Murugura, Adobe 수석 클라우드 아키텍트
+* Kiran Murugulla, Adobe 수석 클라우드 아키텍트
 * Vaibhav Varshney, 컴퓨터 과학자, Adobe
 * Himani Chauhan, 컴퓨터 과학자, Adobe
 
