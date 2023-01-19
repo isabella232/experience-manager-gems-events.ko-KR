@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM 세션
-source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
+source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '311'
 ht-degree: 1%
 
 ---
@@ -43,13 +43,12 @@ ht-degree: 1%
 </table>
 
 --->
-예정된 AEM GEM 웨비나: *온-프레미스 및 AMS 환경을 위한 AEM 우수 사례 분석기*.
-시간: 1월 18일 오후 5시 CET / 오전 8시 PST / 오후 9.30시 IST 리소스: [AEM 우수 사례 분석기](/help/gems2022/aem-best-practices-analyzer.md)
-등록: [웨비나 등록](https://aem-augs.adobe.com/e/mz8eae/)
+최신 AEM GEM 웨비나: *온-프레미스 및 AMS 환경을 위한 AEM 우수 사례 분석기*.
+수행: 1월 18일 오후 5시 CET / 오전 8시 PST / 오후 9.30시 IST 리소스: [AEM 우수 사례 분석기](/help/gems2023/aem-best-practices-analyzer.md)
 
 >[!NOTE]
 >
-> 에서 예정된 GEMS 세션에 대한 알림을 받으려면 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
+> 예정된 AEM GEM 웨비나에 알림을 받으려면 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
 
 ## AEM GEM의 2022 재출시.
 
@@ -76,8 +75,8 @@ Adobe [Experience Manager 커뮤니티](https://experienceleaguecommunities.adob
 
 ## 이전 웨비나 기록
 
-마지막 웨비나는 **AEM 및 CIF 프레임워크를 통합하여 풍부하고 몰입형 전자 상거래 환경을 구축합니다** 4월 27일에 수행되었습니다.
+마지막 웨비나는 **온-프레미스 및 AMS 환경을 위한 AEM 우수 사례 분석기** 은 2023년 1월 18일에 수행되었습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
-이 웨비나는 Adobe의 기술 설계자인 쿠날 가바 &amp; 비나이 쿠마르에 의해 발표되었습니다.
+설명 및 발표자 정보를 포함한 세션 세부 사항은 다음을 참조하십시오. [AEM 우수 사례 분석기](/help/gems2023/aem-best-practices-analyzer.md).
