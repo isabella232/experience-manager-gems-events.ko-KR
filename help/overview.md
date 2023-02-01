@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM 세션
-source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
+source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '308'
 ht-degree: 1%
 
 ---
@@ -43,8 +43,8 @@ ht-degree: 1%
 </table>
 
 --->
-최신 AEM GEM 웨비나: *온-프레미스 및 AMS 환경을 위한 AEM 우수 사례 분석기*.
-수행: 1월 18일 오후 5시 CET / 오전 8시 PST / 오후 9.30시 IST 리소스: [AEM 우수 사례 분석기](/help/gems2023/aem-best-practices-analyzer.md)
+*신속한 개발 환경을 통해 Adobe Experience Manager Cloud Service 개발 촉진*
+날짜: 2월 22일 오후 5시 CET / 오전 8시 PST / 오후 9.30시 IST 리소스: [AEM Rapid Development Environments 웨비나](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
