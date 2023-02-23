@@ -10,9 +10,9 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: 66e2150987319e08f22ca002015da24b18f5e452
+source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,7 @@ ht-degree: 0%
 
 # 신속한 개발 환경을 통해 AEM as a Cloud Service 개발 가속화
 
-## 이 웨비나는 2023년 2월 22일에 게재됩니다. 이벤트 페이지를 통해 등록하십시오
-
-을 통해 등록 [이벤트 페이지](http://bit.ly/3DsMcYw) Adobe AEM 사용자 그룹 - 학습 장.
+이 웨비나는 2023년 2월 22일에 수행되었습니다. 아래 기록을 확인하십시오.
 
 ## 세션 설명
 
@@ -34,6 +32,10 @@ RDE를 통해 개발자는 변경 사항을 신속하게 배포하고 검토할 
 * Natalia Angulo Herrera, 소프트웨어 개발 엔지니어
 * Karl Pauls, 수석 컴퓨터 과학자
 * David Boscaert, 선임 소프트웨어 엔지니어
+
+## 웨비나 기록 - 01/18/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3415876)
 
 >[!NOTE]
 >

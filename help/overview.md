@@ -10,10 +10,10 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM 세션
-source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
+source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 1%
+source-wordcount: '279'
+ht-degree: 2%
 
 ---
 
@@ -43,8 +43,8 @@ ht-degree: 1%
 </table>
 
 --->
-*신속한 개발 환경을 통해 Adobe Experience Manager Cloud Service 개발 촉진*
-날짜: 2월 22일 오후 5시 CET / 오전 8시 PST / 오후 9.30시 IST 리소스: [AEM Rapid Development Environments 웨비나](/help/gems2023/Rapid-Development-Environments.md)
+최신 AEM GEM 웨비나에 게시되었습니다. *신속한 개발 환경을 통해 Adobe Experience Manager Cloud Service 개발 촉진* 은 2023년 2월 22일에 수행되었습니다.
+녹화는 여기에서 찾을 수 있습니다. [AEM Rapid Development Environments 웨비나](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
@@ -73,10 +73,4 @@ Adobe [Experience Manager 커뮤니티](https://experienceleaguecommunities.adob
 * 빠른 답변: Adobe 솔루션의 성공적인 활성 사용을 지원하기 위한 다양한 실제 사용 사례 답변 제공
 * 아이디어 및 피드백: 고객 제품 아이디어를 수집하고 제품 팀에 중요한 VoC 피드백을 제공합니다.
 
-## 이전 웨비나 기록
 
-마지막 웨비나는 **온-프레미스 및 AMS 환경을 위한 AEM 우수 사례 분석기** 은 2023년 1월 18일에 수행되었습니다.
-
->[!VIDEO](https://video.tv.adobe.com/v/3413364/)
-
-설명 및 발표자 정보를 포함한 세션 세부 사항은 다음을 참조하십시오. [AEM 우수 사례 분석기](/help/gems2023/aem-best-practices-analyzer.md).
