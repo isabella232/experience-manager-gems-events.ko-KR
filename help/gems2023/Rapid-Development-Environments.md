@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: c95df8aa847b7926e7cf464431637c1bb5bb12a6
+exl-id: 262360f8-95af-4fe1-90c5-5490cea00c6c
+source-git-commit: b50c3aff17162699522ed353659ad3ea6f57faf6
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # 신속한 개발 환경을 통해 AEM as a Cloud Service 개발 가속화
 
@@ -41,3 +41,4 @@ RDE를 사용하면 개발자가 변경 사항을 신속하게 배포하고 검�
 >
 >* Experience League에 대한 세션별 커뮤니티 상호 작용의 경우 다음을 방문하십시오. [컨텍스트 기반 스레드](http://bit.ly/3x1Cl8x)
 >* 예정된 웨비나에 대한 알림을 받으려면 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
+

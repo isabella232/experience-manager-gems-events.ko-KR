@@ -14,7 +14,7 @@ ht-degree: 5%
 
 # AEM 6.0 개발자 모드{#aem-developer-mode}
 
-David은 AEM 6.O에서 개발자 모드를 소개합니다. 개발자 모드는 다음과 같습니다.
+David은 AEM 6.O의 개발자 모드를 소개합니다. 개발자 모드:
 
 * 작성자와 개발자 간 브리지(구성 요소 트리)
 * 디버깅 도우미(오류 알림)
@@ -22,11 +22,11 @@ David은 AEM 6.O에서 개발자 모드를 소개합니다. 개발자 모드는 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19501/?quality=9)
 
-*2014년 7월 16일 배송*
+*2014년 7월 16일에 게재됨*
 
-**제공 사람:**
+**제공 주체:**
 
-David Catalog, QE 개발자, Adobe
+David Catalan, QE 개발자, Adobe
 
 **발표자 슬라이드**
 

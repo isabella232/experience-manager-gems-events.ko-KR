@@ -1,30 +1,30 @@
 ---
-title: AEM 6.4의 ContextHub 소개
-description: 이 프레젠테이션에서는 사용 가능한 일반 저장소, 지속성 계층, 이벤트 및 디버깅을 자세히 설명함으로써 높은 수준의 ContextHub 아키텍처를 다룹니다. ContextHub로의 마이그레이션을 쉽게 하기 위해 ClientContext과 ContextHub 간의 유사성 및 기능 패리티에 대해 알아보십시오.
+title: AEM 6.4에서 ContextHub 소개
+description: 이 프레젠테이션에서는 사용 가능한 일반 저장소, 지속성 레이어, 이벤트 및 디버깅에 대한 몇 가지 자세한 내용과 함께 높은 수준의 ContextHub 아키텍처를 다룹니다. ContextHub로 쉽게 마이그레이션할 수 있도록 ClientContext과 ContextHub 간의 유사성 및 기능 패리티에 대해 알아봅니다.
 uuid: f8789846-ff15-4cd5-9102-3b7394da5958
 discoiquuid: e714ec87-355c-4373-b547-98d544d73c9e
 targetaudience: target-audience advanced
-source-git-commit: 811329e02cc9b2b961599d5751d4dcc6886eb3d7
+exl-id: 3c7c5274-64d6-48c0-90fb-1c618dd09e13
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 2%
 
 ---
 
+# AEM 6.4에서 ContextHub 소개{#introduction-to-contexthub-in-aem}
 
-# AEM 6.4의 ContextHub 소개{#introduction-to-contexthub-in-aem}
-
-이 프레젠테이션에서는 사용 가능한 일반 저장소, 지속성 계층, 이벤트 및 디버깅을 자세히 설명함으로써 높은 수준의 ContextHub 아키텍처를 다룹니다. ContextHub로의 마이그레이션을 쉽게 하기 위해 ClientContext과 ContextHub 간의 유사성 및 기능 패리티에 대해 알아보십시오.
+이 프레젠테이션에서는 사용 가능한 일반 저장소, 지속성 레이어, 이벤트 및 디버깅에 대한 몇 가지 자세한 내용과 함께 높은 수준의 ContextHub 아키텍처를 다룹니다. ContextHub로 쉽게 마이그레이션할 수 있도록 ClientContext과 ContextHub 간의 유사성 및 기능 패리티에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23839/?quality=9)
 
-*배달됨 09/19/2018*
+*2018/09/19 게재됨*
 
-**제공 사람:**
+**제공 주체:**
 
-Artur Kudlacz, 개발자, Adobe
+Artur Kudlacz , 개발자, Adobe
 
-날짜: 09/19/2018
+날짜: 2018/09/19
 
 [파일 가져오기](assets/gems-session-introduction-to-contexthub-in-aem-64.pdf)
 

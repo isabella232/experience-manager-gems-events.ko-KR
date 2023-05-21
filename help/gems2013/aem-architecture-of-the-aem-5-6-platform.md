@@ -1,6 +1,6 @@
 ---
-title: AEM 5.6 플랫폼 아키텍처
-description: AEM 애플리케이션 플랫폼의 아키텍처의 진화에 대해 알아봅니다. Cookie 1의 첫 번째 릴리스 이후 가장 최근의 AEM 5.6이 출시되기 전까지 애플리케이션은 여러 가지 변화를 겪어 현재 사용 가능한 확장 가능한 애플리케이션 플랫폼이 되었습니다.
+title: AEM 5.6 플랫폼의 아키텍처
+description: AEM 애플리케이션 플랫폼의 아키텍처 발전에 대해 알아봅니다. Communiqué 1의 첫 번째 릴리스 이후, AEM 5.6의 가장 최근 출시에 이르기까지, 응용 프로그램은 다목적 및 확장 가능한 응용 프로그램 플랫폼이 되기 위해 여러 가지 변경 사항이 적용되었습니다.
 uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
@@ -12,15 +12,15 @@ ht-degree: 4%
 
 ---
 
-# AEM 5.6 플랫폼 아키텍처{#architecture-of-the-aem-platform}
+# AEM 5.6 플랫폼의 아키텍처{#architecture-of-the-aem-platform}
 
-AEM Application Platform의 아키텍처의 진화에 대해 알아봅니다. AEM 5.6의 가장 최근 출시까지 Cookie 1의 첫 번째 릴리스 이후 애플리케이션은 몇 가지 엄청난 변화를 겪어 현재는 사용 가능한 확장 가능한 애플리케이션 플랫폼이 되었습니다.
+AEM 애플리케이션 플랫폼 아키텍처의 발전에 대해 알아봅니다. Communiqué 1의 첫 번째 릴리스 이후 AEM 5.6의 가장 최근 출시에 이르기까지 응용 프로그램은 현재 다목적 및 확장 가능한 응용 프로그램 플랫폼이 되기 위해 여러 가지 큰 변화를 겪었습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
-*2013년 5월 8일 배송*
+*2013년 5월 8일에 게재됨*
 
-**제공 사람:**
+**제공 주체:**
 
 Felix Meschberger, Adobe 수석 과학자
 

@@ -7,7 +7,8 @@ topic: Administration
 role: User
 level: Intermediate
 hidefromtoc: true
-source-git-commit: a79a6bf9f22e7ba171bdb08a1be27978c669ef63
+exl-id: ef6c0f14-0873-4b9c-9ebe-13ac6b1340f1
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
@@ -21,4 +22,5 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* 예정된 세션에 대한 정보는 2022년 11월 초에 제공됩니다.
->* 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대한 알림을 자동으로 받으려면 다음을 따르십시오.
+>* 다음 위치에 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대해 자동으로 알림을 받습니다.
+

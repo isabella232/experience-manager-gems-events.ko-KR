@@ -1,6 +1,6 @@
 ---
 title: AEM GEM 세션
-description: 웨비나 시리즈에 대한 정보와 등록 정보, 이전 및 예정된 웨비나에 대한 정보를 포함하는 AEM GEMs의 랜딩 페이지입니다
+description: 웨비나 시리즈 및 등록 정보, 이전 및 예정된 웨비나에 대한 정보가 포함된 AEM GEM의 랜딩 페이지입니다
 role: Leader
 exl-id: f8d210e7-b05c-4c71-9640-2cc50e2b309f
 cloud: Experience Cloud
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 # Adobe Experience Manager Gems
 
-<img alt="디지털 경험" src="./assets/ADX_Gems.png"/>
+<img alt="디지털 환경" src="./assets/ADX_Gems.png"/>
 
 ## 이전 AEM GEM 이벤트!
 
@@ -43,34 +43,34 @@ ht-degree: 2%
 </table>
 
 --->
-최신 AEM GEM 웨비나에 게시되었습니다. **신속한 개발 환경을 통해 Adobe Experience Manager Cloud Service 개발 촉진** 이(가) *2023년 2월 22일*.
-다음 **기록** 은 다음 위치에서 찾을 수 있습니다. [AEM Rapid Development Environments 웨비나](/help/gems2023/Rapid-Development-Environments.md)
+에 대한 최신 AEM GEM 웨비나 **신속한 개발 환경을 통해 Adobe Experience Manager Cloud Service 개발 가속화** 이(가)에 수행되었습니다. *2023년 2월 22일*.
+다음 **레코딩** 은(는) 여기에서 찾을 수 있습니다. [AEM 신속한 개발 환경 웨비나](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
-> 예정된 AEM GEM 웨비나에 알림을 받으려면 등록하십시오. [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
+> 다음 AEM GEM 웨비나에 등록하여 알림 받기: [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
 
-## AEM GEM의 2022 재출시.
+## 2022년 AEM GEM 출시
 
-시작 **AEM GEM** - Adobe 전문가가 제공하는 Adobe Experience Manager에 대한 기술적인 세부 사항을 살펴보는 웨비나 시리즈입니다. 이 시리즈는 제품 설명서 및 Adobe Experience Manager과 관련된 기타 모든 기술 채널을 보완하여 개발자가 특정 주제를 선택하여 자세히 알아볼 수 있도록 합니다.
+시작 **AEM GEM** - Adobe 전문가가 Adobe Experience Manager의 기술적인 측면에 대한 심도 있는 분석을 제공하는 웨비나 시리즈입니다. 이 시리즈는 제품 설명서와 Adobe Experience Manager에 대한 다른 모든 기술 채널을 보완하는 것으로, 개발자가 특정 주제를 선택하여 자세히 알아볼 수 있도록 합니다.
 
 웨비나는 다음을 포함하여 정기적으로 수행됩니다.
 
 * 최대 60분
-* 웨비나 전체에서 사용할 수 있는 채팅 전문가 및 최종 질문
-* 각 웨비나 후에 녹음 가능
+* 웨비나 전체에서 Q&amp;A 및 채팅 전문가 제공
+* 각 웨비나 후에 사용할 수 있는 레코딩
 * 웨비나는 무료입니다
 
-모든 AEM GEMs 웨비나는 무료로 제공되며 사실상 시행되었습니다.
+당사의 모든 AEM GEM 웨비나는 무료로 제공되며 가상으로 수행됩니다.
 
-등록 위치 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대한 알림을 받으려면 다음을 수행하십시오.
+등록 위치 [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/) 예정된 웨비나에 대한 알림을 받으려면.
 
 ## Experience League 커뮤니티
 
-Adobe [Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) 제품 채택과 고객 성공을 지원하는 데 중요한 역할을 합니다.
+당사 [Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) 제품 채택과 고객 성공을 지원하는 데 중요한 역할을 수행합니다.
 
-* 연결: 구현, 제품 사용 확장에 이르기까지 다양한 지침과 모범 사례를 제공하는 동료 및 Adobe 담당자와 네트워크 연결
-* 빠른 답변: Adobe 솔루션의 성공적인 활성 사용을 지원하기 위한 다양한 실제 사용 사례 답변 제공
-* 아이디어 및 피드백: 고객 제품 아이디어를 수집하고 제품 팀에 중요한 VoC 피드백을 제공합니다.
+* 연결: 구현부터 제품 사용 확장까지 지침 및 모범 사례를 위한 피어 및 Adobe 담당자와 네트워크
+* 빠른 답변: Adobe 솔루션의 성공적인 활성 사용을 지원하기 위한 광범위한 실제 사용 사례 답변 풀
+* 관념화 및 피드백: 고객 제품 아이디어를 수집하고 제품 팀에 가치 있는 VoC 피드백을 제공
 
 

@@ -1,6 +1,6 @@
 ---
-title: 기술 밀착
-description: Gabriel Walt와 Justin Edelson이 기술 강연에서 차세대 Adobe Experience Manager을 위해 우리가 연구 중인 작업에 대해 간단히 살펴보십시오.
+title: 기술 예고편
+description: Gabriel Walt와 Justin Edelson과 함께 차세대 Adobe Experience Manager을 위해 노력하고 있는 기술을 살펴보십시오.
 uuid: 4cb22075-1f96-45fb-b9c3-41d8516b4c87
 discoiquuid: 15ac160d-b272-4725-ba6f-217b1ee70d4d
 targetaudience: target-audience advanced
@@ -12,18 +12,18 @@ ht-degree: 2%
 
 ---
 
-# 기술 밀착{#technical-sneak-peek}
+# 기술 예고편{#technical-sneak-peek}
 
-Gabriel Walt와 Justin Edelson이 기술 강연에서 차세대 Adobe Experience Manager을 위해 우리가 연구 중인 작업에 대해 간단히 살펴보십시오.
+Gabriel Walt와 Justin Edelson과 함께 차세대 Adobe Experience Manager을 위해 노력하고 있는 기술을 살펴보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19305/?quality=9)
 
-*2016년 4월 13일 제공*
+*2016년 4월 13일에 게재됨*
 
-**제공 사람:**
+**제공 주체:**
 
 * Gabriel Walt, 제품 관리자, Adobe
-* Justin Edelson, Experience Architect &amp; Evadvertiser, Adobe
+* Justin Edelson, Experience Architect &amp; Evangelist, Adobe
 
 **발표자 슬라이드**
 

@@ -1,6 +1,6 @@
 ---
-title: AEM 쿼리 및 색인 문제 해결
-description: 이는 작년 세션 AEM 색인 지정 및 JCR 쿼리의 연속입니다. 동일한 주제를 다루지만, 완전히 새로운 컨텐츠와 이전 프레젠테이션과 거의 겹치지 않습니다. AEM 6.4의 새로운 기능도 포함되어 있습니다.
+title: AEM 쿼리 및 인덱스 문제 해결
+description: 이는 작년 세션 AEM 색인화 및 JCR 쿼리의 연속입니다. 이 안내서는 동일한 주제를 다루지만 완전히 새로운 내용을 담고 있으며 이전 프레젠테이션과 거의 겹치지 않습니다. AEM 6.4의 새로운 기능도 포함되어 있습니다.
 page-status-flag: never-activated
 uuid: 6ba07490-1b55-4209-bb89-bad35d73297e
 deleted: 2018-08-14T03 02 22.818-0400
@@ -15,17 +15,17 @@ ht-degree: 3%
 ---
 
 
-# AEM 쿼리 및 색인 문제 해결{#aem-query-and-index-troubleshooting}
+# AEM 쿼리 및 인덱스 문제 해결{#aem-query-and-index-troubleshooting}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*배달됨 08/08/2018*
+*2018/08/08 게재됨*
 
-**제공 사람:**
+**제공 주체:**
 
-Thomas Mueller, Adobe 선임 소프트웨어 엔지니어
+Thomas Mueller, 수석 소프트웨어 엔지니어, Adobe
 
-날짜: 08/08/2018
+날짜: 2018년 8월 8일
 
 [파일 가져오기](assets/20180808-gems-adobe+cloud+platform-experience+system+of+record-1.pdf)
 

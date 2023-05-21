@@ -1,6 +1,6 @@
 ---
 title: Dynamic Tag Management 클라우드 서비스를 사용하여 로컬 AEM 인스턴스에 Adobe Analytics 배포
-description: AEM 6은 웹 사이트에서 Adobe Analytics(및 Marketing Cloud의 기타 솔루션)를 배포하는 Adobe의 권장 방법인 DTM(Dynamic Tag Management)을 위한 클라우드 서비스를 제공합니다. 로컬 AEM 인스턴스까지 DTM 서비스와 연결하고 원하는 사용 데이터를 Adobe Analytics에 보내는 방법을 알아봅니다.
+description: AEM 6에는 Adobe이 웹 사이트에 Adobe Analytics(및 Marketing Cloud의 다른 솔루션)를 배포하는 권장 방법인 DTM(Dynamic Tag Management)을 위한 클라우드 서비스가 포함되어 있습니다. 로컬 AEM 인스턴스도 DTM 서비스에 연결하고 원하는 사용 데이터를 Adobe Analytics으로 전송하는 방법을 알아봅니다.
 uuid: 0af8b03b-18dc-4701-93c6-65acdc85b6a2
 topic-tags: Dynamictagmanagement
 discoiquuid: a91aeec3-337f-4cfd-850d-6ece0041e550
@@ -15,15 +15,15 @@ ht-degree: 1%
 
 # DTM 클라우드 서비스를 통해 로컬 AEM 인스턴스에 Adobe Analytics 배포{#how-to-deploy-adobe-analytics-on-a-local-aem-instance-by-using-the-dynamic-tag-management-cloud-service}
 
-AEM 6은 웹 사이트에서 Adobe Analytics(및 Marketing Cloud의 기타 솔루션)를 배포하는 Adobe의 권장 방법인 DTM(Dynamic Tag Management)을 위한 클라우드 서비스를 제공합니다. 로컬 AEM 인스턴스까지 DTM 서비스와 연결하고 원하는 사용 데이터를 Adobe Analytics에 보내는 방법을 알아봅니다.
+AEM 6에는 Adobe이 웹 사이트에 Adobe Analytics(및 Marketing Cloud의 다른 솔루션)를 배포하는 권장 방법인 DTM(Dynamic Tag Management)을 위한 클라우드 서비스가 포함되어 있습니다. 로컬 AEM 인스턴스도 DTM 서비스에 연결하고 원하는 사용 데이터를 Adobe Analytics으로 전송하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19401/?quality=9)
 
-*2014년 10월 1일 배송*
+*2014년 10월 1일에 게재됨*
 
-**제공 사람:**
+**제공 주체:**
 
-Sandro Loser, 솔루션 설계자, Adobe
+Sandro Looser, 솔루션 설계자, Adobe
 
 **발표자 슬라이드**
 
@@ -35,7 +35,7 @@ Sandro Loser, 솔루션 설계자, Adobe
 
 [DTM 도움말](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 
-[DTM에 대한 액세스 요청](https://dtm.adobe.com/request_access)
+[DTM에 대한 액세스 권한 요청](https://dtm.adobe.com/request_access)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
