@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM 세션
-source-git-commit: 5d0685d5dba95f454b2af58841501812dc5be8f0
+source-git-commit: e499198cba2a36b4abd389932254b1ff1285caf6
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 <img alt="디지털 환경" src="./assets/ADX_Gems.png"/>
 
-## 이전 AEM GEM 이벤트!
+## 예정된 AEM GEM 이벤트!
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -43,10 +43,10 @@ ht-degree: 2%
 </table>
 
 --->
-에 대한 최신 AEM GEM 웨비나 **신속한 개발 환경을 통해 Adobe Experience Manager Cloud Service 개발 가속화** 이(가)에 수행되었습니다. *2023년 2월 22일*.
-다음 **레코딩** 은(는) 여기에서 찾을 수 있습니다. [AEM 신속한 개발 환경 웨비나](/help/gems2023/Rapid-Development-Environments.md)
+예정 날짜 **6월 28일 오전 8시(PST)** AEM 인증(기술)에 대한 웨비나가 있습니다. **기본 Experience Manager 기술 인증 : 준비, 준비, 인증 받기!**
 
 >[!NOTE]
+> 예정된 이벤트에 대한 등록은 필수입니다. 여기에서 등록하십시오. [이벤트 페이지](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-master-the-art-of-experience-manager-certification-get-ready-get-set-get-certified/).
 >
 > 다음 AEM GEM 웨비나에 등록하여 알림 받기: [Adobe의 AEM 사용자 그룹](https://aem-augs.adobe.com/).
 
